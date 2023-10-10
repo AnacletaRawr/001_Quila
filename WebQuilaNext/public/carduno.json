@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "nombreCategoria": "Nuestros Colaboradores 1",
+        "fotoCategoria": "/images/Fotos generales/fondo-hojas-y-frase.jpeg"
+    },
+    {
+        "id": "2",
+        "nombreCategoria": "Nuestros Colaboradores 2",
+        "fotoCategoria": "/images/Fotos generales/camino-Hortensias-Cunco.jpeg"
+    },
+    {
+        "id": "3",
+        "nombreCategoria": "Nuestros Colaboradores 3",
+        "fotoCategoria": "/images/categorias/diseno-textil.png"
+    }
+]

@@ -1,0 +1,14 @@
+.header {
+    /* Cinta encabezado */
+    background-color: var(--lightCoffee);
+    width: 100%;
+}
+.header p {
+    /* Texto del encabezado */
+    color: var(--darkCoffee);
+    margin: 0;
+    font-weight: 400;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 0.8rem;
+}
